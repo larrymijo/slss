@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# Cache files
+.cache/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
